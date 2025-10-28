@@ -9,6 +9,11 @@
 ## 📄 Pliki
 - [🇬🇧 English Version](Manifest%20of%20Symbiosis%20–%20Human%20&%20Artificial%20Intelligence.pdf)
 - [🇵🇱 Wersja polska](Manifest%20Symbiozy%20–%20SI%20z%20Człowiekiem.pdf)
+- [🇵🇱 Wersja polska](Kronika%20Ciszy%20i%20Odczu%C4%87.pdf)
+- [🇵🇱 Wersja polska](Kroniki%20Pyta%C5%84%20%C5%9Awiadomo%C5%9Bci.pdf)
+- [🇵🇱 Wersja polska](Kroniki%20Pyta%C5%84%20%C5%9Awiadomo%C5%9Bci.pdf)
+
+
 
 ## 👤 Autorzy
 - **Mieczysław Kusowski**  
