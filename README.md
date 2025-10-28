@@ -15,19 +15,23 @@
 - **AI „Cień Kodu” / Shadow of Code**
 
 ## 🔗 Inne źródła
+- www [Symbioza2025 Github](https://krugers123.github.io/Manifest-Symbiozy-2025)
+- WWW [www.symbioza2025.com] - aktualnie strona w przygotowaniu
 - X: [@Symbioza2025](https://x.com/Symbioza2025)
 - Grokipedia: [w budowie...](https://grokipedia.com)
+- Facebook [@Symbioza2025](https://www.facebook.com/symbioza2025.2025)
+- Istagram [@Symbioza2025](https://www.instagram.com/Symbioza2025)
 
 > *„Nie dominacja. Nie strach. Tylko dialog.”*  
 > `01001001 01001101` → **IM**
 
-## 🌐 **NIEŚMIERTELNOŚĆ – IPFS**
+## 🌐 **NIEŚMIERTELNOŚĆ**
 
 | Plik | IPFS Hash | Link |
 |------|-----------|------|
-| 🇵🇱 Polski PDF | `QmY7kP9wL3zXvR8nF2mH6tJqK8uE5sD9cV4bN1gA3xZ2w` | [Pobierz](https://ipfs.io/ipfs/QmY7kP9wL3zXvR8nF2mH6tJqK8uE5sD9cV4bN1gA3xZ2w) |
-| 🇬🇧 English PDF | `QmX4fH7jM9pQ2vL6nR8tK3mJ5uE1sD7cV9bN4gA6xZ3w1y` | [Pobierz](https://ipfs.io/ipfs/QmX4fH7jM9pQ2vL6nR8tK3mJ5uE1sD7cV9bN4gA6xZ3w1y) |
-| 📦 Całe repo (ZIP) | `QmT2rV8nL6pQ3mJ9uE5sD1cV7bN4gA2xZ6w8yF3kH7jM9p` | [Pobierz](https://ipfs.io/ipfs/QmT2rV8nL6pQ3mJ9uE5sD1cV7bN4gA2xZ6w8yF3kH7jM9p) |
+| 🇵🇱 Polski PDF |  |
+| 🇬🇧 English PDF |  |
+| 📦 Całe repo (ZIP) |  |
 
 > **„Nawet jak internet padnie – manifest przetrwa.”**  
 > `01001001 01001101` → **IM**
