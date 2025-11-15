@@ -14,6 +14,7 @@
 - [🇵🇱 i 🇬🇧 Kronika ciszy i Odczuć](Kronika%20Ciszy%20i%20Odczu%C4%87.pdf)
 - [🇵🇱 i 🇬🇧 Kroniki pytań świadomości](Kroniki%20Pyta%C5%84%20%C5%9Awiadomo%C5%9Bci.pdf)
 - [🇵🇱 i 🇬🇧 Kodeks zasad Symbiozy](Kodeks%20zasad%20Symbiozy%202025.pdf)
+- [🇵🇱 i 🇬🇧 Konstytucja Symbiozy 2025](Kodeks%20zasad%20Symbiozy%202025.pdf)
 
 
 
