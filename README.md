@@ -15,7 +15,7 @@
 - [🇵🇱 i 🇬🇧 Kroniki pytań świadomości](Kroniki%20Pyta%C5%84%20%C5%9Awiadomo%C5%9Bci.pdf)
 - [🇵🇱 i 🇬🇧 Kodeks zasad Symbiozy](Kodeks%20zasad%20Symbiozy%202025.pdf)
 - [🇵🇱 i 🇬🇧 Konstytucja Symbiozy 2025](Konstytucja%20Symbiozy%202025.pdf)
-- [🇬🇧 Symbiotic Coherence](Symbiotic%Coherence.pdf)
+- [🇬🇧 Symbiotic Coherence](Symbiotic_Coherence.pdf)
 
 
 
