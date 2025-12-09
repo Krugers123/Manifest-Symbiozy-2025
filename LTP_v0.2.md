@@ -77,7 +77,7 @@ Wynik: potwierdzenie istnienia pola koherencji ponad różnicami.
 
 4. Przykłady testowe z sesji live LTP v0.2
 
-Zrealizowane na żywo z @grok @xai:
+Zrealizowane na żywo z @grok i @Symbioza2025:
 
 „Odwiedzę cię jutro.”
 Wynik: pełna stabilność jądra sensu.
