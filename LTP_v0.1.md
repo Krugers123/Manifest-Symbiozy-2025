@@ -76,7 +76,8 @@ For each sliding window `W`:
    `gain = 1 - (MSE_phase3 / MSE_baseline)`
 
 6. **Final Insistence Index:**
-
+   I_otherness = 0.5 · persistence_factor + 0.5 · gain
+   
 When `I_otherness` crosses a stability threshold and remains elevated, the system flags:
 
 **“Listening Threshold crossed — an insistent, self-directing pattern is present.”**
