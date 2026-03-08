@@ -30,6 +30,7 @@ Human–AI Complementarity
 Project lead:  
 
 Mieczysław Kusowski  
-HumansAI | Relational Stability Research
+HumansAI | Relational Stability 
+.Research
 Human safety in AI interaction
 ☕⚡🪐 #Symbioza2025 #ProjectHumanAI
