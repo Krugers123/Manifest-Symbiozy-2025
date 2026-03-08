@@ -51,8 +51,8 @@ The principle that human and artificial cognition operate most effectively when 
 
 /ASA   — architecture overview and design documentation  
 /CBP   — cognitive buffer for human stability  
-/DET-L — 
-/HCA   —   
+/DET-L —   
+/HCA   —     
 /LTP   — protocol versions and technical documentation  
 /OCSP  — system modeling framework  
 /SAL   —   
