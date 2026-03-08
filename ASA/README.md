@@ -90,38 +90,6 @@ These observations revealed recurring patterns including:
 
 ASA provides a structured method for monitoring these patterns.
 
----
 
-## Research Scope
 
-HumansAI treats dialogue with AI systems as an **observable relational environment**.
 
-The goal is not to control the model but to improve human awareness of instability signals.
-
-ASA therefore focuses on:
-
-- observability  
-- reversibility  
-- preservation of human agency.
-
----
-
-## Status
-
-ASA is currently a **research framework under active development**.
-
-The architecture is part of the broader **HumansAI – Relational Stability Research** project.
-
-Public materials focus on conceptual structure, empirical observations, and research direction.
-
-Implementation details remain intentionally undisclosed.
-
----
-
-## Project
-
-HumansAI | Relational Stability Research  
-Human safety in AI interaction  
-
-☕⚡🪐  
-#Symbioza2025 #ProjectHumanAI
