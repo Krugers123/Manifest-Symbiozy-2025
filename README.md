@@ -27,9 +27,9 @@ Human–AI Complementarity
 /docs – diagrams and supporting documents  
 /archive – historical and philosophical texts
 
-## Project lead:  
+## Project lead  
 
-Mieczysław Kusowski. 
+Mieczysław Kusowski
 Independent Researcher, Poland.
 
 HumansAI | Relational Stability | Research
