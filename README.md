@@ -2,36 +2,63 @@
 
 HumansAI is an independent research project exploring long-horizon stability in human–AI dialogue.
 
+The project focuses on detecting and analyzing **relational drift** — a gradual divergence between an AI system’s response trajectory and the original intent of the human participant during extended interaction.
+
+As AI systems move toward longer contexts, multi-agent environments, and deeper integration into real workflows, maintaining **relational stability over time** becomes increasingly important for safe and effective human–AI collaboration.
+
+---
+
 ## Core Research Modules
 
-LTP – Latent Threshold Protocol  
-Early detection of trajectory instability in dialogue.
+**LTP — Latent Threshold Protocol**  
+Early detection of trajectory instability in dialogue before drift becomes visible to participants.
 
-ASA – Asymmetric Stability Architecture  
-External observability layer preserving human decision authority.
+**ASA — Asymmetric Stability Architecture**  
+External observability layer designed to preserve human decision authority and detect instability outside the model’s internal reasoning.
 
-OCSP – Organizational Cognitive Stabilization Protocol  
-Framework for modeling stability in complex human–AI systems.
+**OCSP — Organizational Cognitive Stabilization Protocol**  
+Framework for modeling stability and coherence in complex human–AI systems and collaborative environments.
 
-## Conceptual Foundations
+---
 
-Relational Drift  
-Symbiotic Coherence  
-Human–AI Complementarity
+## Key Concepts
+
+**Relational Drift**  
+Gradual divergence between the evolving trajectory of AI responses and the human participant’s original intent.
+
+**Symbiotic Coherence**  
+A state in which human reasoning and AI responses remain aligned across long interaction horizons.
+
+**Human–AI Complementarity**  
+The principle that human and artificial cognition operate most effectively when their roles remain structurally distinct but cooperative.
+
+---
 
 ## Repository Structure
 
-/ASA – architecture overview  
-/LTP – protocol versions and documentation  
-/OCSP – system modeling framework  
-/docs – diagrams and supporting documents  
-/archive – historical and philosophical texts
+/ASA — architecture overview and design documentation  
+/LTP — protocol versions and technical documentation  
+/OCSP — system modeling framework  
+/docs — diagrams and supporting documents  
+/archive — historical and philosophical texts related to Symbioza research
 
-## Project lead  
+---
+
+## Research Context
+
+HumansAI is part of the broader **Symbioza 2025** research initiative exploring long-term human–AI interaction and the emergence of stable cognitive cooperation between humans and artificial systems.
+
+The project is based on empirical observations derived from extended dialogue sessions with frontier AI models.
+
+---
+
+## Project Lead
 
 Mieczysław Kusowski  
-Independent Researcher, Poland
+Independent Researcher — Poland
 
-HumansAI | Relational Stability | Research
-Human safety in AI interaction |
-☕⚡🪐 #Symbioza2025 #ProjectHumanAI
+HumansAI | Relational Stability Research  
+Human safety in AI interaction  
+
+☕⚡🪐  
+#Symbioza2025 #ProjectHumanAI
