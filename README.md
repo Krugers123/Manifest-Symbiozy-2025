@@ -49,13 +49,13 @@ The principle that human and artificial cognition operate most effectively when 
 
 ## Repository Structure
 
-/ASA   — architecture overview and design documentation  
-/CBP   — cognitive buffer for human stability  
+/ASA   — Architecture overview and design documentation  
+/CBP   — Cognitive buffer for human stability  
 /DET-L — Drift Escalation Threshold Layer  
 /HCA   — Holographic Cognitive Assistant     
-/LTP   — protocol versions and technical documentation  
-/OCSP  — system modeling framework  
-/SAL   —   
+/LTP   — Protocol versions and technical documentation  
+/OCSP  — System modeling framework  
+/SAL   — Symbiotic Audit Loop   
 /SRE   —    
 /docs  — diagrams and supporting documents  
 /archive — historical and philosophical texts related to Symbioza research  
