@@ -1,39 +1,16 @@
-# HumansAI – Asymmetric Stability Architecture (ASA)
+# ASA — Asymmetric Stability Architecture
 
-**HumansAI | Relational Stability Research**
+ASA is a structural framework for maintaining relational stability in advanced AI ecosystems.
 
-ASA (Asymmetric Stability Architecture) is a conceptual safety framework designed to preserve relational stability in long-horizon human–AI interaction.
+The architecture separates:
 
-The architecture focuses on detecting early signals of **relational drift** while maintaining strict separation between the AI system and the stability monitoring layer.
+- core reasoning systems
+- drift observability layers
+- human sovereignty checkpoints
 
-This document provides a high-level description of the architecture without exposing implementation details.
+This asymmetric separation prevents internal optimization loops from silently normalizing drift.
 
----
-
-## Motivation
-
-As AI systems move toward:
-
-- longer conversational contexts  
-- autonomous agents  
-- self-improving training loops  
-- multi-agent environments  
-
-the challenge of **long-horizon alignment** becomes increasingly important.
-
-Traditional alignment approaches often focus on:
-
-- training objectives  
-- reinforcement learning signals  
-- internal model constraints  
-
-However, these approaches may not detect subtle divergence in **dialogue trajectory** between a human and an AI system.
-
-HumansAI introduces the concept of **Relational Drift**:
-
-> A gradual divergence between the trajectory of AI responses and the original intent of the human participant during extended interaction.
-
-ASA was developed as a framework to observe and detect this phenomenon.
+ASA is designed to ensure that drift detection and escalation remain structurally external to the model's reasoning core.
 
 ---
 
