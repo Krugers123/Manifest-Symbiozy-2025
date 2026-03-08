@@ -8,6 +8,19 @@ As AI systems move toward longer contexts, multi-agent environments, and deeper 
 
 ---
 
+## System Overview
+
+HumansAI combines several complementary research layers designed to maintain relational stability in long-horizon human–AI interaction.
+
+LTP — detection of trajectory instability in dialogue  
+ASA — architectural observability layer independent from model reasoning  
+CBP — cognitive buffer preserving human interpretive flexibility  
+OCSP — system-level modeling of stability in complex human–AI environments
+
+Together these components form a relational stability framework for extended human–AI cooperation.
+
+---
+
 ## Core Research Modules
 
 **LTP — Latent Threshold Protocol**  
@@ -38,6 +51,7 @@ The principle that human and artificial cognition operate most effectively when 
 
 /ASA — architecture overview and design documentation  
 /LTP — protocol versions and technical documentation  
+/CBP — cognitive buffer for human stability  
 /OCSP — system modeling framework  
 /docs — diagrams and supporting documents  
 /archive — historical and philosophical texts related to Symbioza research
