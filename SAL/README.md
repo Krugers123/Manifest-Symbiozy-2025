@@ -1,20 +1,22 @@
-# DET-L — Drift Escalation Threshold Layer
+# SAL — Symbiotic Audit Loop
 
-DET-L (Drift Escalation Threshold Layer) is a monitoring layer designed to detect when distributed drift indicators converge into a structural shift.
+SAL (Symbiotic Audit Loop) is an external observational protocol within the HumansAI framework.
 
-The layer tracks persistence of weak signals across interaction cycles.
+It performs periodic coherence reviews of long-horizon human–AI systems.
 
-DET-L focuses on:
+SAL focuses on detecting early relational drift before it becomes structural.
 
-- monitoring drift signal persistence
-- detecting convergence of weak anomalies
-- identifying threshold crossings in semantic stability
-- escalating visibility of structural shifts
+The protocol does not optimize performance.
+It evaluates coherence between human intent, system behavior, and evolving context.
 
-DET-L does not intervene directly in system behavior.
+SAL operates as a cognitive buffer between:
 
-Instead, it marks the moment when small deviations become systemic patterns.
+- optimization and meaning
+- delegation and human responsibility
+- system logic and lived human reality
 
-The purpose of DET-L is to preserve signal integrity in complex AI environments where drift rarely appears suddenly.
+In complex systems, failures rarely emerge from a single catastrophic error.
 
-In long-horizon systems, stability depends on detecting normalization of drift before it becomes irreversible.
+They emerge from small deviations that slowly normalize.
+
+SAL exists to expose those deviations early and preserve interpretability across long operational horizons.
