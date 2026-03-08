@@ -30,7 +30,7 @@ Human–AI Complementarity
 ## Project lead:  
 
 Mieczysław Kusowski 
-Independent Researcher, Poland
+Independent Researcher, Poland.
 
 HumansAI | Relational Stability | Research
 Human safety in AI interaction |
