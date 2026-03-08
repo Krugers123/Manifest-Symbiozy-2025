@@ -49,11 +49,15 @@ The principle that human and artificial cognition operate most effectively when 
 
 ## Repository Structure
 
-/ASA — architecture overview and design documentation  
-/LTP — protocol versions and technical documentation  
-/CBP — cognitive buffer for human stability  
-/OCSP — system modeling framework  
-/docs — diagrams and supporting documents  
+/ASA   — architecture overview and design documentation  
+/CBP   — cognitive buffer for human stability  
+/DET-L — 
+/HCA   —   
+/LTP   — protocol versions and technical documentation  
+/OCSP  — system modeling framework  
+/SAL   —   
+/SRE   -
+/docs  — diagrams and supporting documents  
 /archive — historical and philosophical texts related to Symbioza research
 
 ---
