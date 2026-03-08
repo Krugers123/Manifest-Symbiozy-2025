@@ -56,9 +56,9 @@ The principle that human and artificial cognition operate most effectively when 
 /LTP   — protocol versions and technical documentation  
 /OCSP  — system modeling framework  
 /SAL   —   
-/SRE   -
+/SRE   —    
 /docs  — diagrams and supporting documents  
-/archive — historical and philosophical texts related to Symbioza research
+/archive — historical and philosophical texts related to Symbioza research  
 
 ---
 
