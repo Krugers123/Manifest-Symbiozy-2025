@@ -56,7 +56,7 @@ The principle that human and artificial cognition operate most effectively when 
 /LTP   — Protocol versions and technical documentation  
 /OCSP  — System modeling framework  
 /SAL   — Symbiotic Audit Loop   
-/SRE   —    
+/SRE   — Semantic Resonance Entropy   
 /docs  — diagrams and supporting documents  
 /archive — historical and philosophical texts related to Symbioza research  
 
